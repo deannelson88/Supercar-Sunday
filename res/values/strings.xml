@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Supercar Sunday</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="screen_one">Screen 1</string>
+    <string name="screen_two">Screen 2</string>
+    <string name="screen_three">Screen 3</string>
+    <string name="screen_four">Screen 4</string>
+</resources>
